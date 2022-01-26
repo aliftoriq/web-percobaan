@@ -1,0 +1,38 @@
+body {
+    font-family: "Bebas Neue", cursive;
+}
+
+.sosmed{
+    background: #000;
+    height: fit-content;
+}
+
+.mg-lg{
+    margin: 50px;
+}
+
+.bebas {
+  font-family: "Bebas Neue", cursive;
+}
+
+.dongle{
+    font-family: "Dongle", sans-serif;
+}
+
+
+.identitas {
+  padding-top: 80px;
+}
+
+.footbar {
+  background: #000;
+  height: fit-content;
+
+  margin-top: 100px;
+}
+
+.footbar p {
+  color: white;
+  font-family: 'Bebas Neue', cursive;
+
+}
